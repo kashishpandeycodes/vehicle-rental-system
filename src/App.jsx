@@ -19,7 +19,6 @@ const initialVehicles = [
 
   { _id: "12", name: "Royal Enfield Bullet 350", type: "Bike", category: "Classic", pricePerDay: 900, rating: 4.8, reviews: 230, image: "https://images.unsplash.com/photo-1558981806-ec527fa84c39?w=600&auto=format&fit=crop", isAvailable: true },
   { _id: "13", name: "Royal Enfield Hunter 350", type: "Bike", category: "Cruiser", pricePerDay: 850, rating: 4.7, reviews: 160, image: "https://images.unsplash.com/photo-1558981403-c5f9899a28bc?w=600&auto=format&fit=crop", isAvailable: true },
-  { _id: "14", name: "Jawa Perak Bobber", type: "Bike", category: "Cruiser", pricePerDay: 1100, rating: 4.6, reviews: 94, image: "https://images.unsplash.com/photo-1558980827-067df45c48f6?w=600&auto=format&fit=crop", isAvailable: true },
   { _id: "15", name: "Harley-Davidson Iron 883", type: "Bike", category: "Cruiser", pricePerDay: 3500, rating: 4.9, reviews: 82, image: "https://images.unsplash.com/photo-1558981403-c5f9899a28bc?w=600&auto=format&fit=crop", isAvailable: false },
 
   { _id: "16", name: "Kawasaki Ninja ZX-10R", type: "Bike", category: "Sports Bike", pricePerDay: 4500, rating: 4.9, reviews: 115, image: "https://images.unsplash.com/photo-1568772585407-9361f9bf3a87?w=600&auto=format&fit=crop", isAvailable: true },
